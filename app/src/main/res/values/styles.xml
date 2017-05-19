@@ -6,6 +6,8 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <!-- Added this line for default white text field color -->
+        <item name="android:editTextColor">@color/colorWootricWhite</item>
     </style>
 
 </resources>
